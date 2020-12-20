@@ -6,7 +6,7 @@
 
 Run it on **Google Colab:** 
 
-Download the folder from this **google drive:  https://drive.google.com/drive/folders/1qsgpnMhX9VJTxnpHlJV9x-C1vMDeKfOi?usp=sharing** 
+Download the folder from this google drive: [Project](https://drive.google.com/drive/folders/1qsgpnMhX9VJTxnpHlJV9x-C1vMDeKfOi?usp=sharing)
 
 After downloading this forlder upload it on your drive and make sure to remove **Processed_Training_Data and Results Folder** before running the project.
 
